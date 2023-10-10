@@ -105,7 +105,8 @@ types-tzlocal==0.1
 types-ujson==0.1
 types-vobject==0.9
 types-waitress==0.1
-ubuntu-advantage-tools==8001
+types-Werkzeug==1.0
+types-xxhash==2.0
 ufw==0.36.1
 unattended-upgrades==0.1
 urllib3==2.0.5
