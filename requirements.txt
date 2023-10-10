@@ -104,4 +104,3 @@ types-typed-ast==1.4
 types-tzlocal==0.1
 types-ujson==0.1
 types-vobject==0.9
-zipp==1.0.0
