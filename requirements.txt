@@ -103,7 +103,6 @@ types-ttkthemes==3.2
 types-typed-ast==1.4
 types-tzlocal==0.1
 types-ujson==0.1
-types-urllib3==1.26.25.14
 types-vobject==0.9
 types-waitress==0.1
 types-Werkzeug==1.0
